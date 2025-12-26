@@ -1,9 +1,9 @@
-import React from 'react'
+import Buttons from "./components/Buttons";
 
 export default function App() {
   return (
     <div>
-      <h1>MUi app</h1>
+      <Buttons />
     </div>
-  )
+  );
 }
